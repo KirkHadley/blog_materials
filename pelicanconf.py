@@ -29,7 +29,7 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
-THEME = '/home/kirk/pelican-themes/aboutwilson'  
+THEME = '../theme/aboutwilson/' 
 PLUGIN_PATHS = ['/home/kirk/pelican-plugins']
 PLUGINS = ['summary']
 SUMMARY_END_MARKER = '<!--more-->'
