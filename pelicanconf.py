@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Juannell Riley'
 SITENAME = u'Do Nothing, Say Nothing'
 SITEURL = ''
-PATH = 'content'
+PATH = '../contents/blog_content/'
 OUTPUT_PATH = '/var/www/output'
 TIMEZONE = 'Europe/Paris'
 
