@@ -7,7 +7,7 @@ SITENAME = u'Do Nothing, Say Nothing'
 SITEURL = ''
 PATH = '../contents/blog_content/'
 OUTPUT_PATH = '/var/www/output'
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
 
