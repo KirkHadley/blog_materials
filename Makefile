@@ -2,8 +2,8 @@ PY?=python
 PELICAN?=pelican
 PELICANOPTS=
 
-BASEDIR=$(CURDIR)
-INPUTDIR=../contents/blog_content/
+BASEDIR=/home/kirk/juannell/blog
+INPUTDIR=/home/kirk/juannell/c_fork/content/blog_content
 OUTPUTDIR=/var/www/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py

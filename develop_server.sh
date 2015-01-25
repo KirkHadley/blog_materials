@@ -6,8 +6,8 @@ PY=${PY:-python}
 PELICAN=${PELICAN:-pelican}
 PELICANOPTS=
 
-BASEDIR=$(pwd)
-INPUTDIR=../contents/blog_content/
+BASEDIR=/home/kirk/juannell/blog
+INPUTDIR=/home/kirk/juannell/c_fork/content/blog_content
 OUTPUTDIR=/var/www/output
 CONFFILE=$BASEDIR/pelicanconf.py
 

@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://pisgahanalytics.com'
+SITEURL = 'http://jrileyopinion.com'
 RELATIVE_URLS = False
 
 
@@ -21,5 +21,5 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ""
+DISQUS_SITENAME = "jropinion"
 #GOOGLE_ANALYTICS = ""
